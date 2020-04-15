@@ -1,0 +1,100 @@
+C:\Users\Administrator\documents\visual studio 2017\Projects\WpfApp8\WpfApp8\bin\Debug\WpfApp8.exe.config
+C:\Users\Administrator\documents\visual studio 2017\Projects\WpfApp8\WpfApp8\bin\Debug\WpfApp8.exe
+C:\Users\Administrator\documents\visual studio 2017\Projects\WpfApp8\WpfApp8\bin\Debug\WpfApp8.pdb
+C:\Users\Administrator\documents\visual studio 2017\Projects\WpfApp8\WpfApp8\obj\Debug\WpfApp8.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2017\Projects\WpfApp8\WpfApp8\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\documents\visual studio 2017\Projects\WpfApp8\WpfApp8\obj\Debug\App.g.cs
+C:\Users\Administrator\documents\visual studio 2017\Projects\WpfApp8\WpfApp8\obj\Debug\WpfApp8_MarkupCompile.cache
+C:\Users\Administrator\documents\visual studio 2017\Projects\WpfApp8\WpfApp8\obj\Debug\WpfApp8_MarkupCompile.lref
+C:\Users\Administrator\documents\visual studio 2017\Projects\WpfApp8\WpfApp8\obj\Debug\MainWindow.baml
+C:\Users\Administrator\documents\visual studio 2017\Projects\WpfApp8\WpfApp8\obj\Debug\WpfApp8.g.resources
+C:\Users\Administrator\documents\visual studio 2017\Projects\WpfApp8\WpfApp8\obj\Debug\WpfApp8.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2017\Projects\WpfApp8\WpfApp8\obj\Debug\WpfApp8.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2017\Projects\WpfApp8\WpfApp8\obj\Debug\WpfApp8.exe
+C:\Users\Administrator\documents\visual studio 2017\Projects\WpfApp8\WpfApp8\obj\Debug\WpfApp8.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp8\WpfApp8\bin\Debug\Autofac.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp8\WpfApp8\bin\Debug\CommonServiceLocator.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp8\WpfApp8\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp8\WpfApp8\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp8\WpfApp8\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp8\WpfApp8\bin\Debug\MaterialDesignColors.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp8\WpfApp8\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp8\WpfApp8\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp8\WpfApp8\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp8\WpfApp8\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp8\WpfApp8\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp8\WpfApp8\bin\Debug\Autofac.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp8\WpfApp8\bin\Debug\Autofac.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp8\WpfApp8\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp8\WpfApp8\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp8\WpfApp8\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp8\WpfApp8\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp8\WpfApp8\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp8\WpfApp8\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp8\WpfApp8\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp8\WpfApp8\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp8\WpfApp8\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp8\WpfApp8\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp8\WpfApp8\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp8\WpfApp8\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp8\WpfApp8\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WpfApp8\WpfApp8\obj\Debug\App.baml
+C:\Users\Administrator\documents\visual studio 2017\Projects\WpfApp8\WpfApp8\bin\Debug\MathNet.Numerics.dll
+E:\日常工作\实时对抗\WpfApp8\WpfApp8\obj\Debug\MainWindow.g.cs
+E:\日常工作\实时对抗\WpfApp8\WpfApp8\obj\Debug\App.g.cs
+E:\日常工作\实时对抗\WpfApp8\WpfApp8\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\日常工作\实时对抗\WpfApp8\WpfApp8\obj\Debug\WpfApp8_MarkupCompile.cache
+E:\日常工作\实时对抗\WpfApp8\WpfApp8\obj\Debug\WpfApp8_MarkupCompile.lref
+E:\日常工作\实时对抗\WpfApp8\WpfApp8\obj\Debug\App.baml
+E:\日常工作\实时对抗\WpfApp8\WpfApp8\obj\Debug\MainWindow.baml
+E:\日常工作\实时对抗\WpfApp8\WpfApp8\obj\Debug\WpfApp8.g.resources
+E:\日常工作\实时对抗\WpfApp8\WpfApp8\obj\Debug\WpfApp8.Properties.Resources.resources
+E:\日常工作\实时对抗\WpfApp8\WpfApp8\obj\Debug\WpfApp8.csproj.GenerateResource.Cache
+E:\日常工作\实时对抗\WpfApp8\WpfApp8\obj\Debug\WpfApp8.exe
+E:\日常工作\实时对抗\WpfApp8\WpfApp8\obj\Debug\WpfApp8.pdb
+E:\日常工作\实时对抗\WpfApp8\WpfApp8.exe.config
+E:\日常工作\实时对抗\WpfApp8\WpfApp8.exe
+E:\日常工作\实时对抗\WpfApp8\WpfApp8.pdb
+E:\日常工作\实时对抗\WpfApp8\WpfApp8\obj\Debug\WpfApp8.csprojResolveAssemblyReference.cache
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\bin\Debug\WpfApp8.exe.config
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\bin\Debug\WpfApp8.exe
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\bin\Debug\WpfApp8.pdb
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\bin\Debug\Autofac.dll
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\bin\Debug\CommonServiceLocator.dll
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\bin\Debug\GalaSoft.MvvmLight.dll
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\bin\Debug\MaterialDesignColors.dll
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\bin\Debug\MathNet.Numerics.dll
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\bin\Debug\System.Windows.Interactivity.dll
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\bin\Debug\Autofac.pdb
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\bin\Debug\Autofac.xml
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\bin\Debug\GalaSoft.MvvmLight.pdb
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\bin\Debug\GalaSoft.MvvmLight.xml
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\bin\Debug\MaterialDesignColors.pdb
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\obj\Debug\WpfApp8.csprojResolveAssemblyReference.cache
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\obj\Debug\MainWindow.g.cs
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\obj\Debug\App.g.cs
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\obj\Debug\WpfApp8_MarkupCompile.cache
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\obj\Debug\WpfApp8_MarkupCompile.lref
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\obj\Debug\App.baml
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\obj\Debug\MainWindow.baml
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\obj\Debug\WpfApp8.g.resources
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\obj\Debug\WpfApp8.Properties.Resources.resources
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\obj\Debug\WpfApp8.csproj.GenerateResource.Cache
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\obj\Debug\WpfApp8.exe
+E:\日常工作\实时对抗\WpfApp8\Resmaple\WpfApp8\obj\Debug\WpfApp8.pdb
